@@ -386,6 +386,8 @@ To enable the Confluent Schema Registry for a {prodname} container, install the 
 * `kafka-schema-registry-client`
 * `common-config`
 * `common-utils`
+* `kafka-schema-converter`
+* `org-apache-avro`
 
 You can download the preceding files from the https://packages.confluent.io/maven/[Confluent Maven repository].
 
